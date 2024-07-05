@@ -11,7 +11,13 @@ This project focuses on predicting diabetes status based on a dataset containing
 - **Dataset**: Obtained from Kaggle, comprising blood pressure, glucose levels, and diabetes status of 995 individuals.
 - **Features**:
   - Glucose: Quantitative variable representing glucose levels.
+
+  ![Glucose Histogram](Image/glucose.png)
+
   - Blood Pressure: Quantitative variable.
+
+  ![Blood Pressure Histogram](Image/pressure.png)
+  
 - **Target Variable**:
   - Diabetes: Binary indicating diabetic or non-diabetic status.
 
@@ -19,6 +25,9 @@ This project focuses on predicting diabetes status based on a dataset containing
 
 - Converted "diabetes" column to Boolean format.
 - Addressed outliers using the Interquartile Range (IQR) method.
+
+![Box plot](Image/outliers.png)
+
 - Standardized data for uniform scale.
 
 ### 2.3 Data Splitting
