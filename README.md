@@ -67,3 +67,40 @@ This project focuses on predicting diabetes status based on a dataset containing
 - Acknowledged multimodal and bimodal distributions for glucose and blood pressure, respectively.
 - Gaussian Naive Bayes model achieved a high accuracy of 94.87%.
 - Noted the assumption of independence in the Gaussian Naive Bayes classifier and potential influences between glucose and blood pressure.
+## Contributers
+
+<table>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/Nadaaomran">
+        <img src="https://avatars.githubusercontent.com/u/104179154?v=4" width="100px;" alt="Nada"/>
+        <br />
+        <sub><b>Nada Omran</b></sub>
+      </a>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/hadeerfasih">
+        <img src="https://avatars.githubusercontent.com/u/104545742?v=4" width="100px;" alt="Hadeer"/>
+        <br />
+        <sub><b>Hadeer Fasih</b></sub>
+      </a>
+      <br />
+    </td>
+   <td align="center">
+      <a href="https://github.com/Mariam-Hatem">
+        <img src="https://avatars.githubusercontent.com/u/115348754?v=4" width="100px;" alt="Mariam"/>
+        <br />
+        <sub><b>Mariam Hatem</b></sub>
+      </a>
+      <br />
+    <td align="center">
+      <a href="https://github.com/sarah1ibrahim">
+        <img src="https://avatars.githubusercontent.com/u/115026687?v=4" width="100px;" alt="Mariam"/>
+        <br />
+        <sub><b>Sarah Ibrahim</b></sub>
+      </a>
+      <br />
+
+  </tr>
+</table>
